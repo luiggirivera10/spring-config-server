@@ -1,2 +1,2 @@
-spring-student.url=http://localhost:8080/api/v1.0/students
-sample.property=sample
+server.port = 8080
+msg = This message is coming from the refreshed version controlled properties file.
